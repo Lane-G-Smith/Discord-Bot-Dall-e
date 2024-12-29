@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.1",
+  "description": "Image generation discord bot",
+  "main": "assist.js",
+  "keywords": [],
+  "author": "Lane-G-Smith",
+  "license": "MIT",
+  "guildId": "",
+  "token": "",
+  "clientID": "",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "discord.js": "^14.07.1",
+    "dotenv": "^16.3.1",
+    "node": "^20.11.1",
+    "openai": "4.4.0"
+  }
+}
